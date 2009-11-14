@@ -1,4 +1,4 @@
-Win32 exe,
+Uploading an old pack to gitHub!
 MassSpring + KellyLochBaum
 
 probably buggy, hopefully nicer versions to be done.
